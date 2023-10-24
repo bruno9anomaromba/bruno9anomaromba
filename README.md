@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ ..eu sou o Bruno, estudante do 9 ano treino bastante e vou ser campeao do mr olympia 2023
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+bruno9anomaromba/bruno9anomaromba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
